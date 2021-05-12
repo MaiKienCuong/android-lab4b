@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab4_b</string>
+    <string name="text"><b>Bạn có thắc mắc với sản phẩm vừa xem đừng ngại chat với shop!</b></string>
+    <string name="button">Chat</string>
+</resources>
